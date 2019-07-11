@@ -13,3 +13,6 @@ Testing Job + Pipeline
 
 Testing Job1 + Job2
 7/11/19 4:39 git push test
+
+Testing Job1 + Job2 + Job3
+7/11/19 4:47 git push test
