@@ -23,3 +23,6 @@ Testing Job1 + Job2 + Job3
 
 Testing Job1 new Jenkins
 7/16/19 5:33 git push test
+
+Testing Job3 pipeline test
+7/18/19 8:44 git push test
